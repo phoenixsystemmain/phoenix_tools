@@ -3,7 +3,6 @@
     "version": "1.2 Beta",
     "script_url": "https://github.com/phoenixsystemmain/phoenix_tools/raw/refs/heads/main/phoenix_tools.luac",
     "changes": [
-        "Знакомьтесь с Phoenix Tools!",
-        "На данный момент версия является бета, возможно мы начнем заниматься скриптом по полной!"
+        "Мини-фиксы /admhelp!"
     ]
 }
