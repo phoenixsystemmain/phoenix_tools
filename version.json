@@ -1,7 +1,7 @@
 {
     "latest": 2,
     "version": "1.2 Release",
-    "script_url": "https://github.com/phoenixsystemmain/phoenix_tools/raw/refs/heads/main/phoenix_tools.luac",
+    "script_url": "https://raw.githubusercontent.com/phoenixsystemmain/phoenix_tools/refs/heads/main/phoenix_tools.luac",
     "changes": [
         "Мини-фиксы /admhelp"
     ]
